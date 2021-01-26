@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 2 - Kaggle Challenges with Titanic Survival - Classification, and House Prices - Regression
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 2 - Kaggle Challenges with Titanic Survival - Classification, and House Prices - Advanced Regression Techniques
 
 |Team|	1|	2|	3|
 |----|---|---|---|
@@ -15,3 +15,5 @@ Here are the two competitions:
  - [Titanic](https://www.kaggle.com/c/titanic)
 
 Deliverables are 2 public kernels (one for each competition) on Kaggle per team.
+ - Kaggle kernel: [Titanic](https://www.kaggle.com/imohtn/titanic-rnm-eda-fe-modeling)
+ - Kaggle kernel: [House Prices](https://www.kaggle.com/imohtn/house-prices-rnm-eda-fe-modeling)
