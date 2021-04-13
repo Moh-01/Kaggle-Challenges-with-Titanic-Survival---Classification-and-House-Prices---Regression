@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 2 - Kaggle Challenges with Titanic Survival - Classification, and House Prices - Advanced Regression Techniques
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 2 - Titanic Survival Classification, and House Prices Advanced Regression Techniques
 
 |Team|	1|	2|	3|
 |----|---|---|---|
